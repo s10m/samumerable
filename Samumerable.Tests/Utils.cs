@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Samurable.Tests
+namespace Samumerable.Tests
 {
     public class ARefType
     {

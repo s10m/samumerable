@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samuerable.Library", "..\Samuerable.Library\Samuerable.Library.csproj", "{938EB787-2309-40A7-B275-509FBE71C6A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samumerable.Library", "Samumerable.Library\Samumerable.Library.csproj", "{938EB787-2309-40A7-B275-509FBE71C6A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurable.Tests", "Samurable\Samurable.Tests.csproj", "{9C068BD5-BF50-4895-8B9E-CDE4C48A00D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samumerable.Tests", "Samumerable.Tests\Samumerable.Tests.csproj", "{9C068BD5-BF50-4895-8B9E-CDE4C48A00D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

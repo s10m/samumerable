@@ -1,11 +1,9 @@
-using Samuerable;
-using System;
 using System.Collections.Generic;
 using Xunit;
 using FluentAssertions;
 using System.Linq;
 
-namespace Samurable.Tests
+namespace Samumerable.Tests
 {
     public class SamFirstOrDefault
     {

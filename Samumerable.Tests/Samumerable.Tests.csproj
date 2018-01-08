@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Samuerable.Library\Samuerable.Library.csproj" />
+    <ProjectReference Include="..\Samumerable.Library\Samumerable.Library.csproj" />
   </ItemGroup>
 
 </Project>
